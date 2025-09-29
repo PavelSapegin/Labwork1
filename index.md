@@ -8,7 +8,8 @@ layout: default
 
 # Контакты
     - email: st140957@student.spbu.ru
-    - telegram: [@boberperrie](https://t.me/<telegram-login>)
+    - telegram: [@boberperrie](https://t.me/boberperrie)
+
 # Pet - проекты
     - Обучение модели нейросети для распознавания чисел
     - Обучение модели для одобрения выдачи кредитов
